@@ -681,23 +681,28 @@ body{
     margin-bottom: 20px;
 }
 .rodape {
-  background-color: #24213B;
-  color: #E2DDED;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 40px;
+  padding: 20px 10px;
+  border-top: 2px solid #b8a0d2;
+  background-color: #f4effa;
   text-align: center;
-  padding: 30px 15px;
   font-family: Arial, sans-serif;
-  border-radius: 10px;
-}
-
-.rodape h2 {
-  color: #F5C6E7;
-  margin-bottom: 10px;
 }
 
 .rodape p {
-  margin: 8px 0;
+  margin: 0 0 6px;
+  color: #49345e;
+  font-size: 16px;
+  font-weight: bold;
 }
 
+.rodape span {
+  color: #6d5a80;
+  font-size: 14px;
+}
+</style>
 .rodape .carinho {
   color: #F5C6E7;
   font-size: 14px;
