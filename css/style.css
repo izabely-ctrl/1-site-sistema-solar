@@ -709,6 +709,32 @@ body{
 }
 
 
+.rodape {
+    background-color: #311919;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+    border-top: 1px solid rgb(168, 148, 148);
+}
+
+.rodape p {
+    margin: 8px 0;
+    font-size: 15px;
+}
+
+.rodape strong {
+    color: blueviolet;
+}
+
+.rodape .copyright {
+    margin-top: 18px;
+    font-size: 13px;
+    color: rgb(190, 180, 180);
+}
+
+
+
 
 
 
