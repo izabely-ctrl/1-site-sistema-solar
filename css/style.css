@@ -680,33 +680,6 @@ body{
     color: #8A2BE2;
     margin-bottom: 20px;
 }
-.rodape {
-  width: 100%;
-  box-sizing: border-box;
-  margin-top: 40px;
-  padding: 20px 10px;
-  border-top: 2px solid #b8a0d2;
-  background-color: #f4effa;
-  text-align: center;
-  font-family: Arial, sans-serif;
-}
-
-.rodape p {
-  margin: 0 0 6px;
-  color: #49345e;
-  font-size: 16px;
-  font-weight: bold;
-}
-
-.rodape span {
-  color: #6d5a80;
-  font-size: 14px;
-}
-
-.rodape .carinho {
-  color: #F5C6E7;
-  font-size: 14px;
-}
 
 
 .rodape {
